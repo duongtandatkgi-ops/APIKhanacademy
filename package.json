@@ -1,0 +1,9 @@
+{
+  "name": "ka-solver-api",
+  "version": "1.0.0",
+  "description": "API backend for Khan Academy AI Solver",
+  "main": "api/solve.js",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
